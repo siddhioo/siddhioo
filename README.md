@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siddhioo
+- 👋 Hi, I’m Luis
 - 👀 I’m interested in programming and music
 - 🌱 I’m currently learning to program in JavaScript and play the guitar
 - 📫 How to reach me: Discord: sdihio
