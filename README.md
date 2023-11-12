@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @siddhioo
 - 👀 I’m interested in programming and music
 - 🌱 I’m currently learning to program in JavaScript and play the guitar
-- 💞️ I’m looking to collaborate on the creation of good quality video games
 - 📫 How to reach me: Discord: sdihio
   
 
